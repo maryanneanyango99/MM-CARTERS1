@@ -1,0 +1,7 @@
+._content_wrapper { 
+    min-height: 85vh; padding: 30px 40px;
+    display: flex; flex-wrap: wrap;
+    gap: 10px;
+}
+
+._content_wrapper ._other_details { flex-direction: column; display: flex; gap: 20px; margin: 20px 4px;}

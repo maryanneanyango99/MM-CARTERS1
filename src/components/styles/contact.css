@@ -1,0 +1,12 @@
+._contact  { min-height: 40vh; margin: 20px 0; background-color: #b3adad; width: 100%; padding: 20px;}
+
+.contact_card{ width: 400px;}
+
+._form_wrapper { margin: 10px 0;}
+
+
+._input_wrapper { display: flex; flex-direction: column; gap: 4px; margin: 10px 0;}
+
+._input_wrapper input { outline: none;height: 40px; padding: 0px 6px; max-width: 300px;}
+
+._input_wrapper textarea { outline: none; padding: 10px;}

@@ -1,0 +1,17 @@
+.banner { background-image: url("../imgs/building.jpg"); height: 80vh; width: 100%; background-position: center;
+background-size: cover; background-repeat: no-repeat; }
+
+
+._header { background-color: rgba(75, 145, 192, .4); min-height: 80px; display: flex; 
+    justify-content: space-between; align-items: center; padding: 0px 10px;
+
+}
+
+._links { display: flex; justify-content: space-around; gap: 10px; }
+
+._links ._link {  cursor: pointer; padding: 6px 30px; color: #fff;}
+
+
+._link:hover { border-bottom: 1px solid #0f0; }
+
+._logo {  }

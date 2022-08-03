@@ -1,0 +1,7 @@
+._footer { min-height: 200px; background-color:rgba(128, 128, 128, .6); padding: 30px;}
+
+.social_link { display: flex; width:400px; align-items: center; gap: 20px; }
+
+.social_link { cursor: pointer;  }
+
+.social_link img { width: 50px; }

@@ -1,0 +1,15 @@
+._about {
+    min-height: 40vh;
+    margin: 20px 0;
+    background-color: #b3adad;
+    width: 100%;
+    padding: 20px;
+}
+
+._about_card {
+    width: 400px;
+}
+
+
+._about_card ._content { margin: 20px 0; }
+._about_card ._content p { margin: 10px 0;}
